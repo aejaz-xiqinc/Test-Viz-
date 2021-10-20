@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "circleCard",
+        "displayName": "Test Custom Visual",
+        "guid": "circleCardDC3B2390C99C4FE5A50F89C321DDE3DD",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Custom Visual from xiQ, Inc. web application developed by Data Science Advanced Analytics Team",
+        "supportUrl": "https://xiqinc.com/",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "mabdullahejaz@outlook.com",
+        "email": "Abdullah Ejaz"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
