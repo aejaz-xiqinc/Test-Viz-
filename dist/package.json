@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.2.3.4",
     "author": {"name":"mabdullahejaz@outlook.com","email":"Abdullah Ejaz"},
     "resources": [
         {
@@ -8,7 +8,7 @@
             "file": "resources/circleCardDC3B2390C99C4FE5A50F89C321DDE3DD.pbiviz.json"
         }
     ],
-    "visual": {"name":"circleCard","displayName":"Test Custom Visual","guid":"circleCardDC3B2390C99C4FE5A50F89C321DDE3DD","visualClassName":"Visual","version":"1.0.0","description":"Custom Visual from xiQ, Inc. web application developed by Data Science Advanced Analytics Team","supportUrl":"https://xiqinc.com/","gitHubUrl":""},
+    "visual": {"name":"circleCard","displayName":"Test Custom Visual","guid":"circleCardDC3B2390C99C4FE5A50F89C321DDE3DD","visualClassName":"Visual","version":"1.2.3.4","description":"Custom Visual from xiQ, Inc. web application developed by Data Science Advanced Analytics Team","supportUrl":"https://xiqinc.com/","gitHubUrl":"https://github.com/aejaz-xiqinc/Test-Viz-.git"},
     "metadata": {
         "pbivizjson": {
             "resourceId": "rId0"
